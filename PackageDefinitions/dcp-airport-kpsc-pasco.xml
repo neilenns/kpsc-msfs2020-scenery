@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Tri-Cities Airport</Title>
+		<Manufacturer/>
+		<Creator>Neil Enns</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\dcp-airport-kpsc-pasco\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\dcp-airport-kpsc-pasco</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\\sceneries</AssetDir>
+			<OutputDir>scenery\kpsc-tri-cities-airport\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
