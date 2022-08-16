@@ -6,9 +6,29 @@
       "date": 132628071300000000
     },
     {
+      "path": "MaterialLibs/materials/Library.xml",
+      "size": 1135,
+      "date": 133051341022436439
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/closed-runway-mark.png.DDS",
+      "size": 349700,
+      "date": 133051341023696415
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/closed-runway-mark.png.DDS.FLAGS",
+      "size": 39,
+      "date": 133051337110109489
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/closed-runway-mark.png.DDS.json",
+      "size": 249,
+      "date": 133051341023416428
+    },
+    {
       "path": "scenery/kpsc-tri-cities-airport/KPSC.bgl",
-      "size": 88012,
-      "date": 133050548268743846
+      "size": 88120,
+      "date": 133051345741862487
     }
   ]
 }

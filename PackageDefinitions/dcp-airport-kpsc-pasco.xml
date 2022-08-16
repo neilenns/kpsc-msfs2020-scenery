@@ -16,15 +16,23 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\dcp-airport-kpsc-pasco\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\dcp-airport-kpsc-pasco</OutputDir>
+			<AssetDir>PackageDefinitions\dcp-airport-kpsc-pasco\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\dcp-airport-kpsc-pasco\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="materials">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\materials\</AssetDir>
+			<OutputDir>MaterialLibs\materials\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\\sceneries</AssetDir>
+			<AssetDir>PackageSources\\sceneries\</AssetDir>
 			<OutputDir>scenery\kpsc-tri-cities-airport\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
