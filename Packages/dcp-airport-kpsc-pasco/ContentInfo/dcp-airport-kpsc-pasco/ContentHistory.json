@@ -1,0 +1,10 @@
+{
+  "package-name": "dcp-airport-kpsc-pasco",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KPSC",
+      "revision": 1
+    }
+  ]
+}
